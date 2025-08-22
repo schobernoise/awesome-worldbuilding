@@ -1,10 +1,7 @@
 # awesome-worldbuilding
 An opinionated list of awesome tools and ressources to be utilized in the worldbuilding process.
 
-
-
 > The Tools presented here are predominately open source and free to use. I do not cover tools like ArcGIS, Adobe Illustrator, Affinity Draw. 
-
 
 - Map Projections
 	- Various tools to understand Map Projections.
@@ -44,6 +41,9 @@ An opinionated list of awesome tools and ressources to be utilized in the worldb
 	- [earth :: a global map of wind, weather, and ocean conditions](https://earth.nullschool.net)
 	- [Nimbo Earth Online - Explore Earth over time](https://maps.nimbo.earth)
 
+- Climate
+	- [Global Ecosystem Typology](https://global-ecosystems.org/)
+
 - World Generation - Web based
 	- Worldmap Generation in your browser.
 	- [Azgaar's Fantasy Map Generator v1.97.05](https://azgaar.github.io/Fantasy-Map-Generator/)
@@ -66,3 +66,6 @@ An opinionated list of awesome tools and ressources to be utilized in the worldb
 	- Scribus
 		- Open Source publishing and layouting.
 		- [Scribus – Open Source Desktop Publishing](https://www.scribus.net/)
+	- Krita
+		- Krita is a professional FREE and open source painting program.
+		- [Krita \| Digital Painting. Creative Freedom.](https://krita.org/en/)
