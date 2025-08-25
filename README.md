@@ -4,6 +4,7 @@ An opinionated list of awesome tools and ressources to be utilized in the worldb
 
 
 ## Geo-Information Software
+> Software to work with maps, climate data and other types of geospatial data. Transformative and/or creative!
 
 - GProjector
 	- Transforms an input map image into any of about 200 global and regional map projections.
@@ -65,6 +66,7 @@ An opinionated list of awesome tools and ressources to be utilized in the worldb
 - [Profantasy's Map-Making Journal » Blog Archive » Fractal Terrains 3 Plus](https://rpgmaps.profantasy.com/fractal-terrains-3-plus/)
 
 ## Layout and Graphics
+> How to put your world in a pretty frame with text underneath.
 
 - Inkscape
 	- A Free and open source vector graphics editor.
@@ -80,6 +82,7 @@ An opinionated list of awesome tools and ressources to be utilized in the worldb
 	- [Krita \| Digital Painting. Creative Freedom.](https://krita.org/en/)
 
 ## Blogs, Wikis and Channels
+> I learned a ton of useful stuff from these folks.
 
 - [Atomic Rockets - Atomic Rockets](https://projectrho.com)
 - [Worldbuilding Pasta](https://worldbuildingpasta.blogspot.com/)
