@@ -1,5 +1,6 @@
 # awesome-worldbuilding
 An opinionated list of awesome tools and ressources to be utilized in the worldbuilding process.
+
 > The Tools presented here are predominately open source and free to use. I do not cover tools like ArcGIS, Adobe Illustrator, Affinity Draw. 
 
 
@@ -84,9 +85,27 @@ An opinionated list of awesome tools and ressources to be utilized in the worldb
 ## Blogs, Wikis and Channels
 > I learned a ton of useful stuff from these folks.
 
+
+### Worldbuilding
+
 - [Atomic Rockets - Atomic Rockets](https://projectrho.com)
 - [Worldbuilding Pasta](https://worldbuildingpasta.blogspot.com/)
 - [Biblaridion Youtube](https://www.youtube.com/@Biblaridion)
 - [Artifexian](https://www.artifexian.com/)
 	- [Artifexian Youtube](https://www.youtube.com/Artifexian)
 - [Worldbuilding Guide — Madeline James Writes](https://www.madelinejameswrites.com/worldbuilding-guide)
+
+### Knowledge about how the world works
+
+- [Professor Dave explains](https://www.youtube.com/@ProfessorDaveExplains/playlists)
+	- Geology, Zoology, Biology, History, and much, much more...
+- [Basics of Geophysics](https://www.youtube.com/playlist?list=PL92NIqfZ7QJYpN2e_z_A7XMuAc6ixJ1kC)
+
+
+### Coding and Software knowledge
+
+- [Coding Adventure: Hydraulic Erosion - YouTube](https://www.youtube.com/watch?v=eaXk97ujbPQ)
+- [Unity: Procedural Planet Generation](https://www.youtube.com/playlist?list=PLFt_AvWsXl0cONs3T0By4puYy6GM22ko8)
+- [Solar System Project](https://www.youtube.com/playlist?list=PLFt_AvWsXl0cSy8fQu3cFycsOzNjF31M1)
+- [Geographical Coding Adventures](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dT82XMtKATYPcVIhpu2fh6)
+- [Procedural Terrain Generation](https://www.youtube.com/playlist?list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3)
