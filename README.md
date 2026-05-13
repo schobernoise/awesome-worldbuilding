@@ -66,6 +66,11 @@ An opinionated list of awesome tools and ressources to be utilized in the worldb
 
 - [Profantasy's Map-Making Journal » Blog Archive » Fractal Terrains 3 Plus](https://rpgmaps.profantasy.com/fractal-terrains-3-plus/)
 
+## Name Generators
+> Generating names — for characters, peoples and cultures.
+
+- [Surname Generator](https://surname-generator.com) - Free in-browser surname generator covering 29 real cultures (English, Japanese, Russian, Brazilian, Nigerian, ...) plus fantasy, D&D (split by race) and sci-fi naming systems. Real ethnicity pools are sampled from census / registry frequency lists; the fantasy/sci-fi engines build invented names from designed morphemes.
+
 ## Layout and Graphics
 > How to put your world in a pretty frame with text underneath.
 
