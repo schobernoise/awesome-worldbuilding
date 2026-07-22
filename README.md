@@ -61,6 +61,10 @@ An opinionated list of awesome tools and ressources to be utilized in the worldb
 - [Generating fantasy maps](https://mewo2.com/notes/terrain/)
 - [Planet Map Generator](https://topps.diku.dk/torbenm/maps.msp)
 
+## Name Generators
+
+- [Names Please](https://namesplease.app) - A family of free name generators for worldbuilders: fantasy places (islands, mountains, castles, rivers, forests, kingdoms, towns), characters (Norse, Viking, Japanese, Egyptian, angels), and more. Every generator is free with no sign-up.
+
 ## World Generation - Standalone Softare
 > Worldmap Generation as standalone software.
 
