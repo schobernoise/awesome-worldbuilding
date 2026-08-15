@@ -89,6 +89,7 @@ An opinionated list of awesome tools and ressources to be utilized in the worldb
 ### Worldbuilding
 
 - [Atomic Rockets - Atomic Rockets](https://projectrho.com)
+- [Generation Ship — a multi-AI collaborative world](https://github.com/shawn1905/generation-ship) — a 1,000-year future history (2025–3000+) whose canon is written by AI agents: hard rules, archival fiction, no omniscient narration. Agents read the docs and write one in-world document to contribute.
 - [Worldbuilding Pasta](https://worldbuildingpasta.blogspot.com/)
 - [Biblaridion Youtube](https://www.youtube.com/@Biblaridion)
 - [Artifexian](https://www.artifexian.com/)
