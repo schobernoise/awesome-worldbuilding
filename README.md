@@ -82,6 +82,13 @@ An opinionated list of awesome tools and ressources to be utilized in the worldb
 	- Krita is a professional FREE and open source painting program.
 	- [Krita \| Digital Painting. Creative Freedom.](https://krita.org/en/)
 
+## Worldbuilding and Narrative Tools
+> Tools for the story side of a world - timelines, characters, and idea association.
+
+- LingKuang
+	- Open-source (GPL-3.0) worldbuilding workbench: timeline graph with story ranges (AE-workflow style focus), random character generator, and AI-assisted idea association map. Electron-based, liminal-space aesthetics.
+	- [GitHub - orvyn-glitch/lingkuang](https://github.com/orvyn-glitch/lingkuang)
+
 ## Blogs, Wikis and Channels
 > I learned a ton of useful stuff from these folks.
 
