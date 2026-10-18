@@ -81,6 +81,9 @@ An opinionated list of awesome tools and ressources to be utilized in the worldb
 - Krita
 	- Krita is a professional FREE and open source painting program.
 	- [Krita \| Digital Painting. Creative Freedom.](https://krita.org/en/)
+- RelationCanvas
+	- Free browser tool for relationship maps of casts and factions. Each arrow has its own label. Runs in the browser, no sign-up.
+	- [Relationship Chart Maker: Two-Way OC Charts | RelationCanvas](https://relationcanvas.com/?utm_source=github-awesome-wb&utm_medium=directory)
 
 ## Blogs, Wikis and Channels
 > I learned a ton of useful stuff from these folks.
