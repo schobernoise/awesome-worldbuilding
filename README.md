@@ -94,6 +94,7 @@ An opinionated list of awesome tools and ressources to be utilized in the worldb
 - [Artifexian](https://www.artifexian.com/)
 	- [Artifexian Youtube](https://www.youtube.com/Artifexian)
 - [Worldbuilding Guide — Madeline James Writes](https://www.madelinejameswrites.com/worldbuilding-guide)
+- [Castlori Creator Guide](https://guide.castlori.com/) — Free scene-planning exercise showing how a world rule can shape a character's choice; includes worked examples and a printable worksheet.
 
 ### Knowledge about how the world works
 
